@@ -35,10 +35,6 @@ Phần mềm được xây dựng theo kiến trúc SOA, bao gồm các dịch v
 Chúng tôi luôn hoan nghênh sự đóng góp từ cộng đồng. Nếu bạn có ý tưởng, báo lỗi, hoặc muốn cải thiện phần mềm, hãy tạo một pull request hoặc mở issue trên GitHub.
 
 ## Liên Hệ
-Nếu bạn có câu hỏi hoặc phản hồi, vui lòng liên hệ qua email: example@example.com
+Nếu bạn có câu hỏi hoặc phản hồi, vui lòng liên hệ qua email: dtc2154801030102@ictu.edu.vn
 
-## Giấy Phép
-Phần mềm này được phát hành dưới Giấy phép MIT.
-```
 
-Bạn có thể thay đổi thông tin như email liên hệ và các chi tiết khác theo nhu cầu!
