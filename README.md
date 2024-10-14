@@ -1,6 +1,3 @@
-Dưới đây là mẫu `README.md` được cập nhật với thông tin mà bạn cung cấp:
-
-```markdown
 # Quản Lý Thư Viện
 
 ## Giới Thiệu
